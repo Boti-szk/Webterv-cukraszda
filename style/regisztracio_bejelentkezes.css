@@ -1,0 +1,142 @@
+body{
+    background-color: tan;
+}
+
+#fooldal{
+    background-color: rgb(250, 234, 214 ,0.7);
+    width: 90%;
+    margin: auto ;
+}
+
+h1{
+    color: honeydew;
+    font-size: 50px;
+    text-align: center;
+    border-bottom: 5px solid honeydew;
+}
+
+td{
+    font-size: 20px;
+    color: rgb(109, 86, 12);
+    font-weight: bold;
+    margin-bottom: 10px;
+    min-width: 100px;
+}
+
+.menu {
+    color: rgb(127, 106, 40);
+    font-size: 22px;
+    text-align: center;
+    border: 6px solid honeydew;
+    margin-left: 20px;
+    margin-right: 20px;
+    transition: all 0.5s linear;
+}
+.menu:hover{
+    background-color: rgba(157, 208, 111, 0.60);
+}
+.menu img {
+    margin-right: 4px;
+}
+header{
+    font-size: 30px;
+    color: rgb(109, 86, 12);
+    font-weight: bold;
+    margin-left: 15%;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    min-width: 800px;
+    display: inline-block;
+    text-align: left;
+}
+
+#adatok{
+    max-width: 600px;
+    margin-left: 15%;
+    margin-right: 15%;
+    border-color: #9DD06F;
+    border-style: inset inset none none;
+    border-radius: 10px;
+}
+
+nav, label {
+    font-size: 20px;
+    color: rgb(109, 86, 12);
+    font-weight: bold;
+    margin-bottom: 10px;
+    min-width: 200px;
+    display: inline-block;
+}
+
+input, select {
+    color: black;
+    font-size: 20px;
+    margin: 10px;
+    border: 3px solid #9DD06F;
+    background-color: transparent;
+}
+
+#button {
+    color: rgb(109, 86, 12);
+    font-size: 20px;
+    margin-top: 10px;
+    border-radius: 12px;
+    border: 3px solid #9DD06F;
+    background-color: transparent;
+    transition: all 0.5s linear; 
+}
+
+#button:hover {
+    color: antiquewhite;
+    background-color: #9DD06F;
+
+}
+
+.link {
+    display: block;
+    text-decoration: none;
+    color: #7F6A28;
+    font-size: 22px;
+}
+
+footer {
+    margin-top: 150px;
+    background-color: rgba(139, 69, 19, 0.70);
+}
+
+.infok {
+    margin: 2% 3% 2% 3%;
+    display: inline-block;
+    vertical-align: top;
+    width: 40%;
+    border-style: none none none inset;
+    border-color: antiquewhite;
+    padding-left: 20px;
+}
+.link:hover{
+    color:antiquewhite;
+    transition: all 0.5s linear;
+}
+h2 {
+    color: antiquewhite;
+}
+
+h4 {
+    color: antiquewhite;
+}
+
+.infok ol {
+    color: antiquewhite;
+    font-weight: bold;
+    list-style-type: none;
+}
+
+.infok p, ul, li {
+    color: antiquewhite;
+}
+
+.infok ul {
+    list-style-type: none;
+    text-align: center;
+    padding: 0px;
+}

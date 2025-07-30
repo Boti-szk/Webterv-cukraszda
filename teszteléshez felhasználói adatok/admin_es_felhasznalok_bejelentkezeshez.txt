@@ -1,0 +1,21 @@
+---------ADMIN BEJELENTKEZESHEZ---------
+
+név: admin
+jelszó: 0123456789
+
+---------FELHASZNALOK BEJELENTKEZESHEZ---------
+
+név: Kovács István
+jelszó: 11111111
+
+név: Vas Kinga
+jelszó: 22222222
+
+név: Faragó Zoltán
+jelszó: 33333333
+
+név: Cifra Konrád
+jelszó: 44444444
+
+név:  Eszenyi Borbála
+jelszó: 55555555

@@ -1,0 +1,122 @@
+#fooldal{
+    background-color: hsla(33, 78%, 91%, 0.702);
+    width: 80%;
+    margin: auto;
+}
+
+h1 {
+    color:rgb(109, 86, 12);
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-bottom: 4px solid honeydew;
+    padding-top: 5px;
+}
+ main{
+    margin: 5px;
+ }
+ 
+.infok ol {
+    color: #faebd7;
+    font-weight: bold;
+    list-style-type: none;
+}
+
+.infok p, .infok ul, .infok li, .infok h2, .infok h4 {
+    color: #faebd7;
+}
+
+.infok ul {
+    list-style-type: none;
+    text-align: center;
+    padding: 0px;
+}
+
+ .foszempont .foszempontok {
+    padding: 15px;
+    text-align: center;
+    font-size: 22px;
+    color:rgb(109, 86, 12);
+    background-color: #faead6e6;
+    list-style-type: none;
+}
+
+body {
+    background-image: url(sutihatter.jpg);
+    background-size: contain;
+}
+
+.link {
+    display: block;
+    text-decoration: none;
+    color: #7F6A28;
+    font-size: 20px;
+}
+
+.menu {
+    color: rgb(127, 106, 40);
+    font-size: 20px;
+    text-align: center;
+    border: 3px solid honeydew;
+    margin-left: 20px;
+    margin-right: 20px;
+    transition: all 0.5s linear;
+}
+.menu:hover{
+    background-color: rgba(157, 208, 111, 0.60);
+
+}
+
+div {
+    width: 100%;
+    text-align: center;
+    height: auto;
+    margin: auto;
+}
+
+.menupontok {
+    border: 6px solid honeydew;
+    margin: auto;
+    border-collapse: collapse;
+    min-width: 85%;
+    min-height: 50px;
+    color:rgb(109, 86, 12);
+}
+
+.menupontok img {
+    margin-right: 4px;
+}
+
+footer {
+    margin-top: 150px;
+    background-color: rgba(139, 69, 19, 0.70);
+}
+
+.infok {
+    margin: 2% 3% 2% 3%;
+    display: inline-block;
+    vertical-align: top;
+    width: 40%;
+    border-style: none none none inset;
+    border-color: antiquewhite;
+    padding-left: 20px;
+}
+
+table td {
+    background-color: antiquewhite;
+    font-size: 18px;
+    text-align: center;
+    border: 3px solid honeydew;
+    margin: 20px
+}
+
+a{
+    color:rgb(109, 86, 12);
+    text-decoration: none;
+    transition:all 0.5s linear;
+}
+a:link{
+    color: azure;
+}
+a:hover{
+    color: antiquewhite;
+}
