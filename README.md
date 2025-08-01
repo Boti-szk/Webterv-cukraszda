@@ -51,4 +51,8 @@ Adminisztrátori jogosultsággal termékek hozzáadása is lehetséges.
 
 ## Megjegyzés
 
-Az alkalmazás oktatási célból készült, 2 személyes egyetemi beadandó projektként.
+A projekt nem rendelkezik publikus URL-lel, helyi szerveren (XAMPP) futtatható. A weboldal mögötti adatbázis csupán alapvető adattárolási célt szolgál, funkcionálisan nem releváns.
+
+## Készült
+
+Az alkalmazás oktatási célból készült, 2 személyes egyetemi beadandó projektként
